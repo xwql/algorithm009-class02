@@ -1,1 +1,10 @@
 学习笔记
+## 
+哈希表：HashMap：https://www.processon.com/view/link/5ec91c987d9c08156c5d5e05<br/>
+映射：数组<br/>
+二叉搜索树：左根右-->小中大<br/>
+二叉堆：PriorityQueue<br/>
+BFS：队列实现<br/>
+DFS：递归实现<br/>
+堆排序：1.构建大顶堆；2.调整堆结构+交换堆顶元素与末尾元素<br/>
+图

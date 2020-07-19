@@ -35,6 +35,6 @@ public class UniquePaths {
 
     public static void main(String[] args) {
         UniquePaths uniquePaths = new UniquePaths();
-        System.out.println(uniquePaths.uniquePathsDP(7, 3));
+        System.out.println(uniquePaths.uniquePathsDP(7, 4));
     }
 }

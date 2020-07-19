@@ -7,7 +7,6 @@ package string;
  * 说明：本题中，我们将空字符串定义为有效的回文串。
  *
  * 示例 1:
- *
  * 输入: "A man, a plan, a canal: Panama"
  * 输出: true
  * 示例 2:
